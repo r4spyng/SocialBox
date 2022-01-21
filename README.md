@@ -17,10 +17,9 @@ chmod +x install-sb.sh
 * Ubuntu 
 * Kali linux
 # Contact
-* [Contact](https://www.facebook.com/ouerghi.belahsan) - Belahsan Ouerghi
+* [Contact](https://www.raspyng@protonmail.com) - raspyng
 # Authors :
-* facebook  : Imad
-* gmail     : Ha3MrX
-* instagram : thelinuxchoice
-* Twitter   : thelinuxchoice
-* SocialBox : Belahsan Ouerghi
+* gmail     : raspyng@protonmail.com
+* instagram : raspyng
+* Twitter   : raspyng
+* SocialBox : r4spyng
