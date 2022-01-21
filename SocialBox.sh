@@ -34,7 +34,7 @@ echo -e "		 ▀▀▀▀  ▀█▄▀▪·▀▀▀ ▀▀▀ ▀  ▀ .▀▀�
 echo -e "	[+]              $red Coded By Belahsan Ouerghi$nc         		   [+]"
 echo -e "	[+] 		 $red www.facebook.com/ouerghi.belahsan$nc 		   [+]"
 echo -e "	[+] 		 $red Greetz To All Pentesters$nc          		   [+]"
-echo -e "	[+]$red Special Greetz To$nc :$green {thelinuxchoice , Ha3MrX, Tunisian Eagles}$nc [+]"
+echo -e "	[+]              $red Special Greetz To$nc :$green {r4spyng}$nc 	   [+]"
 echo ""
 echo -e "$yellow Select From Menu : $nc"
 echo ""
